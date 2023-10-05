@@ -9,7 +9,7 @@ Transcrição de vídeo, geração de título, descrição e tags via chatGPT
 ## Autor
 
 - Alexandre Tucunduva | [@motive-mobi](https://www.github.com/motive-mobi)
-- Email |(motive.mobi at gmail.com)
+- Email | (motive.mobi at gmail.com)
 
 
 ## 🔗 Links
